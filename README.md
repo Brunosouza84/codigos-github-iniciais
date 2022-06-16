@@ -1,4 +1,8 @@
-## Códigos github inicias para receber e enviar arquivos
+## **Códigos github inicias para receber e enviar arquivos**
+
+##  PASSOS DE CLONAR E ENVIAR ALTERAÇÕES 
+
+###  
 
  - passo 1 - abrir o git bash dentro da pasta local criada para armazenar os arquivos do novo projeto;
  - passo 2 - copiar link do repositorio criado na nuvem e no git bash executar o codigo "git clone", após isso o arquivo será clonado na nuvem (github) para a plataforma local (pc);
